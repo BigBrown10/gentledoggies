@@ -1,0 +1,51 @@
+{
+	"compiler": {
+		"version": "0.4.26+commit.4563c3fc"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": false,
+				"inputs": [
+					{
+						"name": "user",
+						"type": "address"
+					}
+				],
+				"name": "whitelistAddress",
+				"outputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/token/onft/whitelist.sol": "Whitelist"
+		},
+		"evmVersion": "byzantium",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/token/onft/whitelist.sol": {
+			"keccak256": "0x57fd91ce80215515729442165ef37b03da96cda53e0ef7f93e8590cdfe5ee61a",
+			"urls": [
+				"bzzr://ded62084aad188571eacfa45eaeab53d71a9fc1fd1885bd09ba83a03e6224e1b"
+			]
+		}
+	},
+	"version": 1
+}
