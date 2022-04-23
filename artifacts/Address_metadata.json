@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.9+commit.e5eed63a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Collection of functions related to the address type",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"UniversalONFT_flat.sol": "Address"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"UniversalONFT_flat.sol": {
+			"keccak256": "0xd299bfe02fa34404128c95ae98a53edc7bcaed5329b3228f5ffbbd17a016ba10",
+			"urls": [
+				"bzz-raw://391ed106ddfa9bba752c1b052413d2f802d363a4acf33571d0791590db65311b",
+				"dweb:/ipfs/Qme9wD7eg3DCgASWU7gn9EbmiaRJbLxC1Y9KzPFFxHvLJ7"
+			]
+		}
+	},
+	"version": 1
+}
